@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Asap-Regular';
+  src: url('Asap-Regular.eot');
+  src: url('Asap-Regular.woff2') format('woff2'),
+       url('Asap-Regular.woff') format('woff'),
+       url('Asap-Regular.ttf') format('truetype'),
+       url('Asap-Regular.svg#Asap-Regular') format('svg'),
+       url('Asap-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Asap-Bold';
+  src: url('Asap-Bold.eot');
+  src: url('Asap-Bold.woff2') format('woff2'),
+       url('Asap-Bold.woff') format('woff'),
+       url('Asap-Bold.ttf') format('truetype'),
+       url('Asap-Bold.svg#Asap-Bold') format('svg'),
+       url('Asap-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}

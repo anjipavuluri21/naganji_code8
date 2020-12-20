@@ -1,0 +1,12 @@
+.swal-modal {
+    border-radius: 3px !important;
+}
+
+.added-cart-model {
+    width: 335px;
+    background: #d5ae6a;
+    background: url(../images/button-bg.png) left top no-repeat;
+        background-size: auto;
+    background-size: 100% 100%;
+    text-align: center;
+} 

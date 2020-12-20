@@ -1,0 +1,94 @@
+
+@media screen and (min-width:1351px) and (max-width:1500px) {
+	 
+}
+@media screen and (min-width:1280px) and (max-width:1350px) {
+	  
+}
+@media screen and (min-width:1024px) and (max-width:1280px) {
+	
+}
+@media screen and (min-width:1024px) and (max-width:1060px) {
+	
+}
+@media screen and (min-width:781px) and (max-width:990px) {
+ 	 
+}
+@media screen and (min-width:300px) and (max-width:1023px) {
+	.popup-hidden{width:95%; }
+}
+@media screen and (min-width:300px) and (max-width:1210px) {
+	.member-main{width:100%}
+}
+@media screen and (min-width:300px) and (max-width:1280px) {
+	.container{max-width:100%;}
+	.relative-main{padding-left:30px;padding-right:30px}
+	.product-gallery{margin:25px 25px 0 25px}
+}
+@media screen and (min-width:300px) and (max-width:780px) {	
+	header{padding:10px 10px;} 
+	.wsmenucontainer 	{background:none;float:left}
+	.wsmain{float:left;display:block;width:240px}
+	/*.navigation,.navidiv{display:block;width:auto;float:right}
+	.navigation{position: fixed;left:0px;top:0}*/
+	.code8{width:80px;margin-left:40px}
+	/*.cart-link, .favourite-link, .search-link {width:25px;}
+	.cusomt-select, .login-register, .cart-main, .favourite-main, .search-main {margin-left:5px;}
+	.navigation-sub a{font-size:13px}
+	.login-register{text-align:center}
+	.login-link,.register-link{display: block}
+	.login-register .slash{display:none}
+	.cusomt-select select {padding:3px 20px 3px 10px;background-size:20px auto}
+	.animated-arrow {padding:7px 35px 16px 0px;margin:15px 0 0 10px;}
+	.popup-hidden {padding:15px;}
+	.register-div{padding:0px;font-size:15px}*/
+	.banner-main{margin:50px 0 0 0}
+	
+}
+@media screen and (min-width:576px) and (max-width:780px) {
+	
+	
+}
+@media screen and (min-width:300px) and (max-width:575px) {	
+	.h2, h2 {font-size:1.6rem;}	
+}
+	
+ 
+@media screen and (orientation: landscape) and (min-width:480px) and (max-width:780px) {
+	
+}
+
+
+@media screen and (min-width:300px) and (max-width:480px) {
+	.form-group label {float: none;width:auto;display: block;text-align:left;padding-bottom:5px;  }
+	.form-group .inputbox {margin-left:0px;}
+	.liked-main, .side-cart-main{width:300px}
+	.already-account{font-size:15px;margin-left:10px}
+	.forgot-div .button{font-size:12px;padding:10px 15px 10px 15px  }
+	#signupModal .form-group{margin-bottom:0px}
+	#signupModal .form-group .double{margin-bottom:0.5rem;width:100%;padding:0px   }
+}
+@media screen and (min-width:480px) and (max-width:575px) {
+	
+}
+@media screen and (min-width:412px) and (max-width:480px) {
+	.search-detail-main {width:350px}
+}
+@media screen and (min-width:375px) and (max-width:411px) {
+	.search-detail-main {width:340px}
+}
+@media screen and (min-width:360px) and (max-width:375px) {
+	.search-detail-main {width:340px}
+}
+@media screen and (min-width:300px) and (max-width:359px) {
+	.search-detail-main {width:290px}
+	.liked-main, .side-cart-main{width:275px}
+}
+
+ 
+ /*Retina graphics!*/
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+	   only screen and (min--moz-device-pixel-ratio: 1.5),
+	   only screen and (min-device-pixel-ratio: 1.5){
+	.replace-2x 	{font-size:1px} 
+}

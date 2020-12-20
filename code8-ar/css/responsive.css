@@ -1,0 +1,202 @@
+
+@media screen and (min-width:1351px) and (max-width:1500px) {
+	 
+}
+@media screen and (min-width:1280px) and (max-width:1350px) {
+	  
+}
+@media screen and (min-width:1024px) and (max-width:1280px) {
+	
+}
+@media screen and (min-width:1024px) and (max-width:1060px) {
+	
+}
+@media screen and (min-width:781px) and (max-width:990px) {
+ 	 
+}
+@media screen and (min-width:300px) and (max-width:1023px) {
+	.popup-hidden{width:95%; }
+}
+@media screen and (min-width:300px) and (max-width:1210px) {
+	.member-main{width:100%}
+}
+@media screen and (min-width:300px) and (max-width:1280px) {
+	.container{max-width:100%;}
+	.relative-main{padding-left:30px;padding-right:30px}
+	.product-gallery{margin:25px 25px 0 25px}
+}
+@media screen and (min-width:300px) and (max-width:780px) {	
+	header{padding:10px 10px;} 
+	.wsmenucontainer 	{background:none;float:left}
+	.wsmain{float:left;display:block;width:240px}
+	/*.navigation,.navidiv{display:block;width:auto;float:right}
+	.navigation{position: fixed;left:0px;top:0}*/
+	.code8{width:80px;margin-right:40px}
+	/*.cart-link, .favourite-link, .search-link {width:25px;}
+	.cusomt-select, .login-register, .cart-main, .favourite-main, .search-main {margin-left:5px;}
+	.navigation-sub a{font-size:13px}
+	.login-register{text-align:center}
+	.login-link,.register-link{display: block}
+	.login-register .slash{display:none}
+	.cusomt-select select {padding:3px 20px 3px 10px;background-size:20px auto}
+	.animated-arrow {padding:7px 35px 16px 0px;margin:15px 0 0 10px;}
+	.popup-hidden {padding:15px;}
+	.register-div{padding:0px;font-size:15px}*/
+	.banner-main{margin:50px 0 0 0}
+	
+}
+@media screen and (min-width:576px) and (max-width:780px) {
+	
+	
+}
+@media screen and (min-width:300px) and (max-width:575px) {	
+	.h2, h2 {font-size:1.6rem;}	
+}
+	
+ 
+@media screen and (orientation: landscape) and (min-width:480px) and (max-width:780px) {
+	
+}
+
+
+@media screen and (min-width:300px) and (max-width:480px) {
+	.form-group label {float: none;width:auto;display: block;text-align:left;padding-bottom:5px;  }
+	.form-group .inputbox {margin-left:0px;}
+	.liked-main, .side-cart-main{width:300px}
+	.already-account{font-size:15px;margin-left:10px}
+	.forgot-div .button{font-size:12px;padding:10px 15px 10px 15px  }
+	#signupModal .form-group{margin-bottom:0px}
+	#signupModal .form-group .double{margin-bottom:0.5rem;width:100%;padding:0px   }
+}
+@media screen and (min-width:480px) and (max-width:575px) {
+	
+}
+@media screen and (min-width:412px) and (max-width:480px) {
+	.search-detail-main {width:350px}
+}
+@media screen and (min-width:375px) and (max-width:411px) {
+	.search-detail-main {width:340px}
+}
+@media screen and (min-width:360px) and (max-width:375px) {
+	.search-detail-main {width:340px}
+}
+@media screen and (min-width:300px) and (max-width:359px) {
+	.search-detail-main {width:290px}
+	.liked-main, .side-cart-main{width:275px}
+}
+
+ 
+ /*Retina graphics!*/
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+	   only screen and (min--moz-device-pixel-ratio: 1.5),
+	   only screen and (min-device-pixel-ratio: 1.5){
+	.replace-2x 	{font-size:1px} 
+}
+
+/*******MOBILE_RESPONSIVE_CSS_STARTS_HERE**********************/
+@media only screen and (max-width:1024px){
+.views-field-main{width:710px;margin-right: 210px;}}
+
+@media only screen and (max-width:768px){
+.topbar                {padding:45px 0 0px 0;}
+.views-field-main      {margin-right:0px;}
+.banner-contents p     {width:100%;}
+.banner-main           {margin:-50px 0 0 0;}
+.banner-contents h1    {font: 400 100px/160px 'Qwigley',cursive;}
+.parallaxcont          {background-position:top center!important;}
+.box-main              {margin-left:0px;}
+.box svg               {display:none;}
+.section03             {background-size:130%;}
+.section03-content     {margin:0 0 150px 190px;}
+.section03-box h3      {font: 500 35px/50px 'Cabin',sans-serif;}
+.section03-box         {background: linear-gradient(0deg, rgb(0 0 0 / 68%) 0%, rgb(36 36 36 / 97%) 100%);}
+.section03 .number-div {padding:0px;background:none;}
+.block-gallery         {margin-left:0;padding: 80px 15px 40px 30px;}
+.shop-img              {height:250px;}
+.news-main             {padding:0 0px;}
+.social-links li       {padding-left:0px;}
+.section03-left h2     {margin-top: -5rem;text-align:right;}
+.section03-right       {margin: 0 0 0 0px;}
+.section03-left        {width: 100%;padding-top:0px;}
+.wsmain                {z-index: 999;}
+.same-as               {position: relative;text-align: left;right: 50px;}
+.code8                 {margin-left:0px;}
+.search-main           {top:40%;}
+.header-sub            {margin-top:5rem;}
+.code8                 {margin-top:-7.5rem;}
+.quantity-control-div{padding:0 23px;}
+.styled-checkbox + label:before{margin-right: -13rem;}}
+
+@media only screen and (max-width:475px){
+.banner-main           {background-size:cover;background-position:top center;}
+.banner-contents h1    {font: 400 60px/40px 'Qwigley',cursive;}
+.banner-contents p     {font-size:14px;}
+.view-field-contents   {margin-right:0px;}
+.padding-192px-147px   {padding:50px 0 80px;}
+.views-field-div       {width:200px;}
+.views-field-main      {width:100%;}
+.view-field-contents p {font-size:15px;}
+.read-more             {padding:0px 0;}
+.content-box           {padding:0px 0px 0px 10px;}
+.read-more a           {font-size:13px;font-weight:500;}
+.content-box h3        {font-size:16px;}
+.section02 .linediv    {padding:40px 0 80px;}
+.section02             {background-size:125% auto;}
+.section03-content     {margin:0px 0 0px 10px;}
+.section03-box h3      {font-size:25px;}
+.section03-box         {padding:30px 5px 10px 10px;}
+.section03-box p       {font-size:14px;}
+.round-main            {width:37.33%;}
+.section03-right .round-main:first-child::before{background-size:contain;}
+.section03-right .round-main:last-child::before{background-size:contain;}
+.section03-right .round-main:nth-child(2)::before{background-size:contain;}
+.section04             {background-size:cover;}
+.section04             {background-position: left center!important;}
+.shop-img              {height:135px;}
+.topbar                {padding: 15px 0 0px 0;}
+.ecommerce-div         {float: right;margin-right: 5rem;margin-top: 1rem;}
+.block-gallery h2      {font-size:45px;margin-top:20px;margin-bottom: 20px;}
+.banner-main           {margin: 80px 0 0 0;}
+.wish-remove-item a:first-child{margin-right:10px;}
+.ecommerce-div li      {padding: 0 10px;}
+.favourite-popup-sub::before{left:25px;}
+.favourite-popup       {left:0px;}
+.order-listing         {margin:0 0 0 0px;}
+.same-as               {position: absolute;right: -20px;}
+.quantity-control-div  {padding: 0 25px;}
+.profiledata           {margin-top: 2rem;}
+.styled-checkbox + label:before{margin-right: 0rem;}
+.span-shipping         {margin-top: 2.0rem;}}
+
+@media only screen and (max-width:375px){
+.location-language li  {padding-right:25px;}
+.ecommerce-div         {margin-right:3rem;}
+.section03             {background-size:cover;}
+.section03-box h3      {font-size:20px;}
+.section03-box p       {font-size:12px;}
+.section03-content     {margin:0px 0 0px 90px;}
+.section03-round       {padding:89px 0 20px;}
+.section03-right .round-main:first-child::before{background-size:85% auto;}
+.section03-right .round-main:last-child::before{background-size:85% auto;}
+.section03-right .round-main:nth-child(2)::before{background-size:85% auto;}
+.shop-img              {height:120px;}
+.copyrights            {padding-top:0px;}
+.block-gallery         {padding: 20px 15px 40px 15px;}
+.section02             {background-size:135% auto;}
+.product-th-left       {width:100%;}
+.product-th-right      {width:100%;}
+.same-as               {position: relative;right: 45px;}
+.form-div .form-control{font-size: 14px;}}
+
+@media only screen and (max-width:360px){
+.location-language li  {padding-right:20px;}
+.shop-img              {height:110px;}
+.section03-right .round-main:first-child::before{background-size:80% auto;}
+.section03-right .round-main:last-child::before{background-size:80% auto;}
+.section03-right .round-main:nth-child(2)::before{background-size:80% auto;}
+.same-as               {right: 40px;}}
+
+@media only screen and (max-width:320px){
+.location-language li  {padding-right:3px;}
+.ecommerce-div         {margin-right:0rem;}
+.same-as               {right: 20px;}}
